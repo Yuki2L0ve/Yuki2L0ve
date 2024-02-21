@@ -5,6 +5,7 @@
 * 🌱 I'm currently studying Artificial Intelligence(AI) with a research focus on Natural Language Processing(NLP), and I've developed a strong interest in large language models(LLMs).
 * 😊 I am an optimistic, aggressive, hard-working and ambitious young man.
 * 😄 I like doing sports very much, gooding at playing 🏀, ⚽, 🏸 and 🏊‍.
+* ❤ Hobby determines life, technology fulfills dreams.
 
 # 2. Education Experience
 <table>
