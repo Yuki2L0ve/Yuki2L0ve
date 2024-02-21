@@ -32,15 +32,6 @@
 </table>
 
 
-
-**Graduate Student**
-SZU, School of Computer and Software, Computer Science and Technology • 2023/09/01 - 2026/07/01
-Skills: Machine Learning, Deep Learning, NLP, LLMs
-
-**Bachelor Degree**
-NCU, Software School, Software Engineering • 2019/09/01 - 2023/07/01
-Skills: software development
-
 <!--
 **Yuki2L0ve/Yuki2L0ve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
