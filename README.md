@@ -21,8 +21,8 @@
       Lab: Big Data Lab.
     </td>
     <td>
-      <img src="https://github.com/ZhangIvan1/ZhangIvan1/raw/main/images/xdu.png" alt="Xidian University Logo" style="height:100px;width:100px;"/>
-      <img src="https://github.com/ZhangIvan1/ZhangIvan1/raw/main/images/ncu.png" alt="Nanchang University Logo" style="height:100px;width:100px;"/>
+      <img src="https://github.com/ZhangIvan1/ZhangIvan1/raw/main/images/xdu.png" alt="Xidian University Logo" style="height:200px;width:200px;"/>
+      <img src="https://github.com/ZhangIvan1/ZhangIvan1/raw/main/images/ncu.png" alt="Nanchang University Logo" style="height:200px;width:200px;"/>
     </td>
   </tr>
 </table>
