@@ -26,7 +26,7 @@
       Skills: software development.<br>
     </td>
     <td>
-      <img src="https://github.com/ZhangIvan1/ZhangIvan1/raw/main/images/ncu.png" alt="https://www.ncu.edu.cn/" style="height:200px;width:200px;"/>
+      <a href="https://www.ncu.edu.cn/"><img src="https://github.com/ZhangIvan1/ZhangIvan1/raw/main/images/ncu.png" alt="Nanchang University Logo" style="height:200px;width:200px;"/></a>
     </td>
   </tr>
 </table>
