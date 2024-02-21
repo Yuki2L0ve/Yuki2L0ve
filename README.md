@@ -1,4 +1,4 @@
-### Hi, welcome to my Github! 👋
+### Hi, welcome to my GitHub! 👋
 
 # 1. self introduction
 * 🔭 I’m currently a master student in [Shenzhen University(SZU)](https://www.szu.edu.cn/), majoring in Computer Science and Technology.
