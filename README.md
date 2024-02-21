@@ -15,7 +15,7 @@
       Skills: Machine Learning, Deep Learning, NLP, LLMs.<br>
     </td>
     <td>
-      <img src="https://github.com/ZhangIvan1/ZhangIvan1/raw/main/images/xdu.png" alt="Xidian University Logo" style="height:200px;width:200px;"/><br>
+      <a href="https://www.szu.edu.cn/"><img src="https://cdn.nlark.com/yuque/0/2024/jpeg/32812451/1708492351618-ba2c29c8-d567-4043-aadf-576f77d2df16.jpeg" alt="Xidian University Logo" style="height:200px;width:200px;"/><br></a>
     </td>
   </tr>
 
@@ -26,7 +26,7 @@
       Skills: software development.<br>
     </td>
     <td>
-      <a href="https://www.ncu.edu.cn/"><img src="https://github.com/ZhangIvan1/ZhangIvan1/raw/main/images/ncu.png" alt="Nanchang University Logo" style="height:200px;width:200px;"/></a>
+      <a href="https://www.ncu.edu.cn/"><img src="https://cdn.nlark.com/yuque/0/2024/png/32812451/1708491834235-34eda4a6-d3ad-4775-8da8-2670b4392700.png?x-oss-process=image%2Fresize%2Cw_381%2Climit_0" alt="Nanchang University Logo" style="height:200px;width:200px;"/></a>
     </td>
   </tr>
 </table>
